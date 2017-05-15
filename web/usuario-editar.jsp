@@ -1,8 +1,6 @@
 <%@page import="br.com.chiquitto.aula.jdbcblog.dao.AdminDao"%>
 <%@page import="br.com.chiquitto.aula.jdbcblog.vo.Admin"%>
 <%@page import="util.Util"%>
-<%@page import="br.com.chiquitto.aula.jdbcblog.dao.CategoriaDao"%>
-<%@page import="br.com.chiquitto.aula.jdbcblog.vo.Categoria"%>
 <%@page import="br.com.chiquitto.aula.jdbcblog.Conexao"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@ include file="testarLogin.jsp" %>

@@ -50,6 +50,7 @@
                     <td>
                         <a href="usuario-editar.jsp?id=<%= usuario.getIdpessoa() %>">[Editar]</a>
                         <a href="usuario-excluir.jsp?id=<%= usuario.getIdpessoa() %>">[Apagar]</a>
+                        <a href="usuario-foto.jsp?id=<%= usuario.getIdpessoa() %>">[Foto]</a>
                     </td>
                 </tr>
                 <% } %>
